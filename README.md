@@ -12,6 +12,15 @@ Il s'agissait de développer une application web pour créer des dégradés avec
 - Redux
 - Sass
 
+## Installation
+
+```
+git clone https://github.com/Nina-petit/Formation-Gradient.git
+cd Formation-Gradient
+npm install
+npm start
+```
+
 ## Fonctionnalités
 
 - Pouvoir changer les couleurs du dégradé au hasard: la première, la deuxième, ou les deux en même temps
